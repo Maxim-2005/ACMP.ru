@@ -10,5 +10,5 @@ begin
   else
     A := T - S + 12;
   
-  writeln(A);
+  writeln(A); 
 end.

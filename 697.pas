@@ -9,7 +9,7 @@ begin
   B := S div 16;
   
   if S mod 16 > 0 then
-    B := B + 1;
+    B := B + 1; 
   
   writeln(B);
   
