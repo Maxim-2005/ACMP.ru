@@ -1,14 +1,7 @@
-N = int(input())
-S = 1
-a = 0
+x = "0123456789"
 
-for i in range(1, N+1):
-    S = S * i
+print(*x[8:0:-2])
 
-while True:
-    if S % 10 == 0:
-        S = S // 10
-    else:
-        print(S % 10)
-        break
+x = [0,1,2,3,4,5,6,7,8,9]
 
+print(*x[8:0:-2])
