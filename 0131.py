@@ -1,9 +1,9 @@
 N = int(input())
-S = V = mS = t = 0
+res = maxVoz = -1
 
 for i in range(N):
-	S, V = map(int, input().split())
-	if V == 1:
-		mS = max(S, mS)
-		t = i
-print(t - 1)
+	V, S = map(int, input().split())
+	if S == 1 and V > maxVoz:
+		maxVoz = V 
+		res = i + 1
+print(res)
