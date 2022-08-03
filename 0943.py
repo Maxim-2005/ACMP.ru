@@ -1,6 +1,7 @@
 N, M, Y, X = map(int, input().split());
-S = 0;
+S = M * Y;
 
-
-
-print(S);
+if Y % 2 == 0:
+	print(S - X)
+else:
+	print((S - (M - X)) - 1)s
