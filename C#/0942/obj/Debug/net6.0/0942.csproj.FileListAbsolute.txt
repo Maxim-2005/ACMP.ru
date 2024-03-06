@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ACMP.ru\C#\0942\obj\Debug\net6.0\0942.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ACMP.ru\C#\0942\obj\Debug\net6.0\0942.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ACMP.ru\C#\0942\obj\Debug\net6.0\0942.AssemblyInfo.cs
+D:\Documents\GitHub\ACMP.ru\C#\0942\obj\Debug\net6.0\0942.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ACMP.ru\C#\0942\bin\Debug\net6.0\0942.exe
+D:\Documents\GitHub\ACMP.ru\C#\0942\bin\Debug\net6.0\0942.deps.json
+D:\Documents\GitHub\ACMP.ru\C#\0942\bin\Debug\net6.0\0942.runtimeconfig.json
+D:\Documents\GitHub\ACMP.ru\C#\0942\bin\Debug\net6.0\0942.dll
+D:\Documents\GitHub\ACMP.ru\C#\0942\bin\Debug\net6.0\0942.pdb
+D:\Documents\GitHub\ACMP.ru\C#\0942\obj\Debug\net6.0\0942.dll
+D:\Documents\GitHub\ACMP.ru\C#\0942\obj\Debug\net6.0\refint\0942.dll
+D:\Documents\GitHub\ACMP.ru\C#\0942\obj\Debug\net6.0\0942.pdb
+D:\Documents\GitHub\ACMP.ru\C#\0942\obj\Debug\net6.0\0942.genruntimeconfig.cache
+D:\Documents\GitHub\ACMP.ru\C#\0942\obj\Debug\net6.0\ref\0942.dll

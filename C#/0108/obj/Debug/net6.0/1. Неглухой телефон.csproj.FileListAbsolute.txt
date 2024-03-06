@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ACMP.ru\C#\1. Неглухой телефон\bin\Debug\net6.0\1. Неглухой телефон.exe
+D:\Documents\GitHub\ACMP.ru\C#\1. Неглухой телефон\bin\Debug\net6.0\1. Неглухой телефон.deps.json
+D:\Documents\GitHub\ACMP.ru\C#\1. Неглухой телефон\bin\Debug\net6.0\1. Неглухой телефон.runtimeconfig.json
+D:\Documents\GitHub\ACMP.ru\C#\1. Неглухой телефон\bin\Debug\net6.0\1. Неглухой телефон.dll
+D:\Documents\GitHub\ACMP.ru\C#\1. Неглухой телефон\bin\Debug\net6.0\1. Неглухой телефон.pdb
+D:\Documents\GitHub\ACMP.ru\C#\1. Неглухой телефон\obj\Debug\net6.0\1. Неглухой телефон.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ACMP.ru\C#\1. Неглухой телефон\obj\Debug\net6.0\1. Неглухой телефон.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ACMP.ru\C#\1. Неглухой телефон\obj\Debug\net6.0\1. Неглухой телефон.AssemblyInfo.cs
+D:\Documents\GitHub\ACMP.ru\C#\1. Неглухой телефон\obj\Debug\net6.0\1. Неглухой телефон.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ACMP.ru\C#\1. Неглухой телефон\obj\Debug\net6.0\1. Неглухой телефон.dll
+D:\Documents\GitHub\ACMP.ru\C#\1. Неглухой телефон\obj\Debug\net6.0\refint\1. Неглухой телефон.dll
+D:\Documents\GitHub\ACMP.ru\C#\1. Неглухой телефон\obj\Debug\net6.0\1. Неглухой телефон.pdb
+D:\Documents\GitHub\ACMP.ru\C#\1. Неглухой телефон\obj\Debug\net6.0\1. Неглухой телефон.genruntimeconfig.cache
+D:\Documents\GitHub\ACMP.ru\C#\1. Неглухой телефон\obj\Debug\net6.0\ref\1. Неглухой телефон.dll

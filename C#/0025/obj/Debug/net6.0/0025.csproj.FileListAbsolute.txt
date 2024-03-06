@@ -1,0 +1,14 @@
+D:\Documents\GitHub\ACMP.ru\C#\0025\bin\Debug\net6.0\0025.exe
+D:\Documents\GitHub\ACMP.ru\C#\0025\bin\Debug\net6.0\0025.deps.json
+D:\Documents\GitHub\ACMP.ru\C#\0025\bin\Debug\net6.0\0025.runtimeconfig.json
+D:\Documents\GitHub\ACMP.ru\C#\0025\bin\Debug\net6.0\0025.dll
+D:\Documents\GitHub\ACMP.ru\C#\0025\bin\Debug\net6.0\0025.pdb
+D:\Documents\GitHub\ACMP.ru\C#\0025\obj\Debug\net6.0\0025.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ACMP.ru\C#\0025\obj\Debug\net6.0\0025.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ACMP.ru\C#\0025\obj\Debug\net6.0\0025.AssemblyInfo.cs
+D:\Documents\GitHub\ACMP.ru\C#\0025\obj\Debug\net6.0\0025.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ACMP.ru\C#\0025\obj\Debug\net6.0\0025.dll
+D:\Documents\GitHub\ACMP.ru\C#\0025\obj\Debug\net6.0\refint\0025.dll
+D:\Documents\GitHub\ACMP.ru\C#\0025\obj\Debug\net6.0\0025.pdb
+D:\Documents\GitHub\ACMP.ru\C#\0025\obj\Debug\net6.0\0025.genruntimeconfig.cache
+D:\Documents\GitHub\ACMP.ru\C#\0025\obj\Debug\net6.0\ref\0025.dll
